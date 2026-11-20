@@ -1,0 +1,30 @@
+body {
+ margin: 0;
+ font-family: Arial, sans-serif;
+ background: #f4f6f9;
+ text-align: center;
+}
+header {
+ background: #14213d;
+ color: white;
+ padding: 40px;
+}
+.container {
+ margin: 50px auto;
+ padding: 30px;
+ max-width: 600px;
+ background: white;
+ border-radius: 10px;
+}
+button {
+ background: #0077b6;
+ color: white;
+ border: none;
+ padding: 12px 25px;
+ cursor: pointer;
+}
+footer {
+ background: #14213d;
+ color: white;
+ padding: 15px;
+}
